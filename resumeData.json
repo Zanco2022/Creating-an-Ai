@@ -1,0 +1,21 @@
+{
+  "name": "Zach Wile",
+  "contact": {
+    "email": "zacharyjwile80@gmail.com",
+    "phone": "(818) 515-0364",
+    "linkedin": "linkedin.com/in/zachary-wile" 
+  },
+  "summary": "Experienced coding instructor and software developer...",
+  "experience": [
+    {
+      "title": "Coding Instructor",
+      "company": "Code Ninjas",
+      "dates": "2022–2024",
+      "responsibilities": [
+        "Taught students aged 7–14 core programming concepts in JavaScript, Python, and Scratch",
+        "Introduced MakeCode Arcade to improve trial engagement, resulting in increased revenue"
+      ]
+    }
+  ],
+  "skills": ["Java", "Python", "React", "Unity", "C++"]
+}
